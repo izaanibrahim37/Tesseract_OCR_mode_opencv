@@ -61,3 +61,10 @@ The notebook will:
 - Adjust the output file names and formats as needed
 
 > **Note:** The project is configured to work in **Google Colab** by default but can be adapted for local execution by adjusting the Tesseract path if needed.
+
+---
+
+### **Author**  
+**Izaan Ibrahim Sayed**  
+Email: izaanahmad37@gmail.com  
+GitHub: [github.com/izaanahmad37](https://github.com/izaanibrahim37) 
